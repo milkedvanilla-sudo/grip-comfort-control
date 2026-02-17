@@ -4,7 +4,7 @@ import { Shield, Target, Grip } from "lucide-react";
 const features = [
 {
   icon: Grip,
-  title: "Premium Foam",
+  title: "Premium Material",
   description: "High-density foam material designed for all-day shooting comfort without sacrificing grip."
 },
 {
